@@ -1,0 +1,1 @@
+# Python-HOG-Read-vehicle-plates
